@@ -30,7 +30,7 @@
 
 - I learned, about border-radius on buttons.
 
-- I learned, hover effect on buttons.
+- I learned, padding inside the button.
 
 - I learned, how to set background-image with linear-gradient.
 
